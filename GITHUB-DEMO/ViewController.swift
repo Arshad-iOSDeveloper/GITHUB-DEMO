@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("develop branch changes")
         print("changes in main branch")
+        print("changes in develop branch to test merge conflict")
     }
 
 
